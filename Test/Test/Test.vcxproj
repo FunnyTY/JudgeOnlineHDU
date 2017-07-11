@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1002_A+B_Problem_II.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F61B8DF8-1B96-4C25-BF32-25A126527C60}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
